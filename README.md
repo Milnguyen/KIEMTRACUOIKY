@@ -2,13 +2,13 @@
 
 Mô tả dự án
 Ứng dụng Quản lý danh bạ được xây dựng bằng Java với IntelliJ cho phép người dùng quản lý thông tin liên lạc bao gồm:
-Số điện thoại
-Nhóm danh bạ
-Họ và tên
-Giới tính
-Địa chỉ
-Ngày sinh
-Email
+Số điện thoại,
+Nhóm danh bạ,
+Họ và tên,
+Giới tính,
+Địa chỉ,
+Ngày sinh,
+Email.
 
 Các tính năng chính:
 1.Xem danh sách: Hiển thị danh bạ theo từng nhóm 5 mục một lần, nhấn Enter để xem tiếp.
